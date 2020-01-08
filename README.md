@@ -1,5 +1,5 @@
 # sky-appear
-Vue directive plugin for exposing style classes to elements entering the viewport
+Vue directive plugin for exposing style classes to elements entering the viewport.
 
 ## Installation
 ```bash
